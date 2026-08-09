@@ -1,5 +1,7 @@
 def planet_lookup(planet_name):
-    
+    if planetary_info.get(planet_name) == None:
+        return "Sorry, I have no data on that planet"
+    return f"Planet {planet_name} has an orbital period of {planetary_info[planet_name]["Orbital Period"]} Earth days and has {planetary_info[planet_name]["Moons"]} moons."
 
 planetary_info = {
     "Mercury": {
