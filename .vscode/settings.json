@@ -1,0 +1,25 @@
+{
+  "python.languageServer": "None",
+  "python.analysis.autoImportCompletions": false,
+  "cursorpyright.analysis.autoImportCompletions": false,
+  "cursorpyright.analysis.inlayHints.genericTypes": false,
+  "cursorpyright.analysis.inlayHints.variableTypes": false,
+  "cursorpyright.analysis.inlayHints.functionReturnTypes": false,
+  "cursorpyright.analysis.inlayHints.callArgumentNames": false,
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "off"
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.tabCompletion": "on",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.suggest.selectionMode": "always",
+  "editor.suggest.preview": false,
+  "editor.snippetSuggestions": "none",
+  "editor.wordBasedSuggestions": "currentDocument",
+  "editor.quickSuggestionsDelay": 0,
+  "editor.inlineSuggest.enabled": false,
+  "editor.inlineSuggest.suppressSuggestions": false
+}

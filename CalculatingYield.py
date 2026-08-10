@@ -17,6 +17,7 @@ def calculate_yield(root):
     if root.val == "/":
         total = (x / y)
     return total
+    ret
 
 """
     +
